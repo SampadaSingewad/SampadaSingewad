@@ -1,10 +1,5 @@
 # 👩‍💻 Sampada Singewad
 
-💻 Entry-Level Web Developer
-
-I am a motivated fresher web developer with  **HTML, CSS, JavaScript, PHP, and MySQL**.  
-I enjoy building **structured, responsive, and user-friendly web applications** while continuously improving my technical skills. 🚀
-
 ---
  💻 Entry-level Full-Stack Web Developer with a strong foundation in HTML, CSS, JavaScript, PHP, MySQL, Bootstrap, React.js, React Native, and WordPress. Experienced in developing 📱 responsive user interfaces, implementing ⚙️ backend logic, and integrating 🗄 databases for dynamic web applications.
 
