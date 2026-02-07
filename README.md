@@ -6,8 +6,11 @@ I am a motivated fresher web developer with  **HTML, CSS, JavaScript, PHP, and M
 I enjoy building **structured, responsive, and user-friendly web applications** while continuously improving my technical skills. 🚀
 
 ---
- 🎯 Career Objective
-To start my career as a web developer where I can apply my technical knowledge, learn from **real-world projects**, and grow as a professional in a **collaborative environment** 🤝.
+ 💻 Entry-level Full-Stack Web Developer with a strong foundation in HTML, CSS, JavaScript, PHP, MySQL, Bootstrap, React.js, React Native, and WordPress. Experienced in developing 📱 responsive user interfaces, implementing ⚙️ backend logic, and integrating 🗄 databases for dynamic web applications.
+
+🛠 Hands-on experience in building complete web solutions, including a PHP-based Resume Builder platform with 📄 dynamic PDF generation using DOMPDF. Familiar with ✨ clean code practices, 📐 responsive design, 🔁 CRUD operations, and 🔗 database integration.
+
+🧠 problem-solving skills, seeking an opportunity to contribute to 🌍 real-world projects and grow in a 🤝 collaborative development environment.
 
 ---
 
@@ -35,7 +38,7 @@ To start my career as a web developer where I can apply my technical knowledge, 
  📝 Form Handling System  
 - 🔐 Secure PHP form processing  
 - 🗄 MySQL data storage  
-- ✉ Email integration  
+    
 
 ---
 
@@ -49,8 +52,8 @@ To start my career as a web developer where I can apply my technical knowledge, 
 ---
 
 ## 📫 Contact Information
-- 🔗 LinkedIn: https://linkedin.com/in/YOUR_LINK  
-- 📧 Email: yourmail@gmail.com  
+- 🔗 LinkedIn: linkedin.com/in/sampada-singewad-490721342/ 
+- 📧 Email: singewadsampada@gmail.com  
 
 ---
 
